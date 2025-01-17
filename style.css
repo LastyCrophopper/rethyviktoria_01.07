@@ -1,0 +1,58 @@
+
+
+img {
+    
+    width: 400px;
+    border: 10px solid rgb(50, 48, 48);
+    border-radius: 15%;
+    padding: 10px;
+}
+
+
+
+body {
+    background-repeat: no-repeat;
+    background-image: url(../kepek/dark-background-abstract-background-network-3d-background-3840x2160-8324.png);
+    background-size: cover;
+    background-position: center;
+    color: rgb(255, 255, 255);
+    font-family: Arial, sans-serif;
+    margin: auto;
+    max-width: 1000px;
+    
+}
+
+
+
+.linkstilusa {
+    text-align: center;
+    display: inline-block;
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 10px;
+    border: 10px solid, gray;
+    border-radius: 25%;
+    background-color: rgb(50, 48, 48);
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    letter-spacing: 30px;
+    text-transform: uppercase;
+    padding: 20px;
+}
+
+h2 {
+    padding: 20px;
+    margin: 10px 0;
+    background-color: rgb(50, 48, 48);
+    border-radius: 5%;
+}
+
+p {
+   
+    text-align: justify;
+    font-size: 15px;
+    font-family: Rockwell;
+}
